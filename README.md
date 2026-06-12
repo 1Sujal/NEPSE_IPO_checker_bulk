@@ -1,5 +1,5 @@
-**!EDUCATIONAL PURPOSES ONLY!**
-I'm still working on it. Currently it works but it merely gives ipo result's output on terminal and is slow asf.
+# **!EDUCATIONAL PURPOSES ONLY!**
+# I'm still working on it. Currently it works but it merely gives ipo result's output on terminal and is slow asf.
 
 # NEPSE IPO Checker (Bulk) 🇳🇵
 
