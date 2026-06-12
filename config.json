@@ -1,0 +1,7 @@
+{
+  "boids": [
+    "boid_here"
+  ],
+  "threads": 3,
+  "google_api_key": "api_key_here"
+}
